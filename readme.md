@@ -1,7 +1,10 @@
-<hr><hr width="400px" color="#fff"><hr width="900px">
+<hr width="400px" color="#fff">
 
 ## Project overview
 This project is a node‑based pipeline editor built with React (frontend) and FastAPI (backend). It fulfills all four assessment parts:
+
+https://github.com/user-attachments/assets/b1fe4514-02ac-4439-a6d3-7205307b9ad6
+
 
 - ***1.Node abstraction:*** A reusable BaseNode component standardizes structure, styling, and handle logic across all nodes.
 
@@ -62,9 +65,6 @@ Definition: A Directed Acyclic Graph (DAG) is a graph with directed edges and no
 **Submit pipeline:**
 
 ####  Alert: Shows num_nodes, num_edges, and is_dag
-
-https://github.com/user-attachments/assets/b1fe4514-02ac-4439-a6d3-7205307b9ad6
-
 
 <!-- hr -->
 <hr><hr width="400px">
