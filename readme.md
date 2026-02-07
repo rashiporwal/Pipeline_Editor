@@ -62,7 +62,8 @@ Definition: A Directed Acyclic Graph (DAG) is a graph with directed edges and no
 **Submit pipeline:**
 
 ####  Alert: Shows num_nodes, num_edges, and is_dag
-https://github.com/user-attachments/assets/09d7025c-096f-445a-b104-23133e3b92f4
+
+https://github.com/user-attachments/assets/b1fe4514-02ac-4439-a6d3-7205307b9ad6
 
 
 <!-- hr -->
